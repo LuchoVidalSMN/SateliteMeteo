@@ -1,1 +1,1 @@
-# satelite
+# Procesamiento de datos satelitales
